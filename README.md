@@ -45,11 +45,3 @@ IBM-SPSS-Customer-Churn-Prediction/
 └── SPSS-Modeler/
     ├── README.md
     └── Customer-Churn-Prediction.str
-
-## Author
-
-**Muskaan Yadav**
-
-**Course:** Bachelor of Computer Applications (BCA)  
-**Specialization:** Data Science & Artificial Intelligence  
-**College:** Babu Banarasi Das University, Lucknow
